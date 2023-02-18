@@ -1,0 +1,31 @@
+div{
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+
+}
+#top-left{
+    border :8px solid black;
+    position:right;
+    width:200px;
+    height: 200px;
+}
+#intro{
+    font-family: "Segoe UI";
+    border:1px solid black;
+    height:100px;
+}
+#Interestandhobbies{
+    font-family: "Segoe UI";
+}
+#LicensesandCertifications{
+    font-family: "Segoe UI";
+}
+#lmao{
+    font-family: "Segoe UI";
+}
+
+#head{
+    font-family: "Segoe UI";
+}
+#social{
+    font-family: "Segoe UI";
+}
